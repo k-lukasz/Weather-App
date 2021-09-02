@@ -26,7 +26,7 @@ const key = "f9e92bec5ea7bcfa1a50eb97f99a8dab";
 // Get weather from API provider
 async function getWeatherData(location) {
     const response = await fetch(
-        `http://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${key}`, {
+        `https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${key}`, {
             mode: 'cors',
         }
     );
