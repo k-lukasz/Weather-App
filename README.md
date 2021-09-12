@@ -1,3 +1,3 @@
 # Weather-App
 
-> - [live demo](https://siias.github.io/Weather-App/)
+> - [live demo](https://k-lukasz.github.io/Weather-App/)
